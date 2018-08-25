@@ -1,4 +1,5 @@
 # glowing-computing-machine
 
 README POUR LA FORMATION
-Auteur : 
+-
+Auteur : Robin Duval
